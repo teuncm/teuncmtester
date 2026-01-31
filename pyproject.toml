@@ -5,7 +5,7 @@ build-backend = "hatchling.build"
 [project]
 name = "teuncmtester"
 dynamic = ["version"]
-description = ''
+description = 't'
 readme = "README.md"
 requires-python = ">=3.8"
 license = "MIT"
